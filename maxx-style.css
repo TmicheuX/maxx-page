@@ -16,3 +16,7 @@
 #portfolio{
 	text-align: center;
 }
+
+#pic{
+	display: inline-block;
+}
